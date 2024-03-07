@@ -1,0 +1,10 @@
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\bin\Debug\Poke-ADONET.exe.config
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\bin\Debug\Poke-ADONET.exe
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\bin\Debug\Poke-ADONET.pdb
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\obj\Debug\Poke-ADONET.csproj.AssemblyReference.cache
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\obj\Debug\Poke_ADONET.Form1.resources
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\obj\Debug\Poke_ADONET.Properties.Resources.resources
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\obj\Debug\Poke-ADONET.csproj.GenerateResource.cache
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\obj\Debug\Poke-ADONET.csproj.CoreCompileInputs.cache
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\obj\Debug\Poke-ADONET.exe
+C:\Users\DFern\Desktop\Arado\adonet\Poke-ADONET\obj\Debug\Poke-ADONET.pdb
